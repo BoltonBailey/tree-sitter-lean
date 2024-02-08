@@ -2,7 +2,7 @@
 tree-sitter-lean
 ================
 
-FOrk of an experimental start on a `Lean 4
+Fork of an experimental start on a `Lean 4
 <https://leanprover.github.io/lean4/doc/>`_ grammar for `tree-sitter
 <https://github.com/tree-sitter/tree-sitter>`_.
 
