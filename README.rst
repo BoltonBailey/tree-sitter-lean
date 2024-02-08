@@ -8,13 +8,13 @@ Fork of an experimental start on a `Lean 4
 
 |CI|
 
-.. |CI| image:: https://github.com/Julian/tree-sitter-lean/workflows/CI/badge.svg
+.. |CI| image:: https://github.com/BoltonBailey/tree-sitter-lean/workflows/CI/badge.svg
   :alt: Build status
-  :target: https://github.com/Julian/tree-sitter-lean/actions?query=workflow%3ACI
+  :target: https://github.com/BoltonBailey/tree-sitter-lean/actions?query=workflow%3ACI
 
 Can be used standalone, or in neovim with `nvim-treesitter
 <https://github.com/nvim-treesitter/nvim-treesitter>`_ via `lean.nvim
-<https://github.com/Julian/lean.nvim>`_.
+<https://github.com/BoltonBailey/lean.nvim>`_.
 
 Testing
 -------
